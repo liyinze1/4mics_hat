@@ -1,3 +1,6 @@
-from distutils.core import setup
+from setuptools import setup
 
-setup(name='respeaker', py_modules=[])
+setup(
+    name='respeaker',
+    packages=['interfaces']
+)
