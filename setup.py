@@ -1,3 +1,3 @@
 from distutils.core import setup
 
-setup(name='4mics_hat')
+setup(name='4mics_hat', py_modules=[])
